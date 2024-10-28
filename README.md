@@ -2,8 +2,6 @@
 
 Welcome to Hackathon hosted by Mezo and Drip and in collaboration with Acre! This repository serves as your central hub for all hackathon resources, demo implementations, and guidelines.
 
-# DRIP Web3 Integration Hackathon
-
 [Introduction placeholder]
 
 ## Demo Implementations 🛠️
