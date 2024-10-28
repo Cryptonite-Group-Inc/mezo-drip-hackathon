@@ -43,9 +43,6 @@ PATCH /api/v4/realms/{realmId}/members/{userId}/transfer
 ```typescript
 // Check NFT ownership
 GET /api/v4/realms/{realmId}/web3/members/{userId}
-
-// Setup NFT collection
-POST /api/v4/realms/{realmId}/web3/collection/import
 ```
 
 #### Leaderboard
