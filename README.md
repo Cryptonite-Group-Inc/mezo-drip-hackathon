@@ -11,7 +11,7 @@ A Discord bot demonstrating:
 - Point balance checking
 - User-to-user transfers
 
-REPO: https://github.com/Cryptonite-Group-Inc/mezo-drip-hackaton-bot-demo
+REPO: https://github.com/Cryptonite-Group-Inc/mezo-drip-hackathon-bot-demo
 
 ### 2. [Web Dashboard Demo](./web-dashboard-demo)
 A Next.js web application showcasing:
@@ -19,7 +19,7 @@ A Next.js web application showcasing:
 - User search functionality
 - Leaderboard visualization
 
-REPO: https://github.com/Cryptonite-Group-Inc/mezo-drip-hackaton-web-demo
+REPO: https://github.com/Cryptonite-Group-Inc/mezo-drip-hackathon-web-demo
 
 ## Technical Documentation 📚
 
